@@ -1,0 +1,14 @@
+{
+  "name": "thread-count",
+  "version": "0.1.0",
+  "description": "learning-neon-via-thread-count",
+  "main": "lib/index.js",
+  "author": "Mark Gulbrandsen <mark.gulbrandsen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
